@@ -243,3 +243,9 @@ h1,h2,h3 {
 .footer {
     text-align: center;
 }
+
+.footer a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
